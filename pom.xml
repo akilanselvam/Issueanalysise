@@ -7,12 +7,12 @@
 		<version>2.5.0-SNAPSHOT</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.IssueAnalysis</groupId>
-	<artifactId>IssueAnalysis</artifactId>
+	<groupId>com.IssueAnalysise</groupId>
+	<artifactId>IssueAnalysise</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>reddit_clone</name>
-	<description>Backend of Reddit Clone</description>
+	<name>IssueAnalysise</name>
+	<description>Backend of IssueAnalysise</description>
 	<properties>
 		<java.version>8</java.version>
 		
